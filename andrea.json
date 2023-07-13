@@ -1,0 +1,71 @@
+{
+ 
+    "nombre": "ANDREA DE LA CARIDAD",
+    "apellido1": "SANTA MARIA",
+    "apellido2": "QUINTANA",
+    "fecha_nacimiento": "2016/11/29",
+    "localidad":"CIUDAD DE LA HABANA",
+    "pais_de_origen": "CUBA",
+    "nacionalidad_actual":"CUBA",
+    "nacioanlidad_origen":"CUBA",
+    "sexo":"Feminino",
+    "estado_civil":"Solteiro(a)",
+
+
+    "nombre_del_padre_tutelar": "LAURA",
+    "apellidos_del_padre_tutelar":"QUINTANA GONZALEZ",
+    "direccion_del_padre_tutelar":"CALLE 13 NO 2723 E/ REFORMA Y CANAL. CERRO",
+    "telefono_del_padre_tutelar":"52542363",
+    "email_del_padre_tutelar":"lauraquintanag90@gmail.com",
+    "nacionalidad_del_padre_tutelar":"CUBA",
+    "carnet_de_identidad":"16112962936",
+
+
+    "numero_de_pasaporte": "L342393",
+    "fecha_de_emision_pasaporte":"2021/08/27",
+    "fecha_de_vencimiento_pasaporte":"2027/08/27",
+    "pasaporte_emitido_por":"CUBA",
+
+    "residencia_habitual":"CALLE 13 NO 2723 E/ REFORMA Y CANAL. CERRO",
+    "telefono_casa":"76377218",
+
+
+
+    "ocupacion_actual":"31",
+    "entidad_laboral_o_estudiantil":"Escuela Primaria Roberto Poland",
+    "telefono_de_la_entidad_laboral_o_estudiantil":"56233249",
+    "info_porque_viene_a_portugal":"Conocer y disfrutar de un pais tan bello como Portugal, conocer el oceanario y muchos de sus otros hermosos lugares",
+    "por_que_frontera_entra_a_portugal":"PORTUGAL",
+
+
+    "duracion_de_la_estadia_en_dias":"2",
+    "fecha_de_llegada":"2022/11/27",
+
+
+    "nombre_alojamiento":"Hotel Luena",
+    "telefono_alojamiento":"+351213558246",
+    "direccion_alojamiento":"Rua Pascoal de Melo 9, Arroios, Lisboa, 1000-230",
+    "email_alojamiento":"geral@hotelluena.com",
+    "condado_alojamiento":"LISBOA",
+
+    "requerente1":"1", 
+    "requerente2":"4"
+
+    
+
+
+
+    
+
+ 
+
+
+
+    
+
+
+
+     
+      
+    
+}
